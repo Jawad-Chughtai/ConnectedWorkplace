@@ -1,0 +1,12 @@
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\bin\Debug\ConnectedWorkplace.EntityFramework.dll.config
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\bin\Debug\ConnectedWorkplace.EntityFramework.dll
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\bin\Debug\ConnectedWorkplace.EntityFramework.pdb
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\obj\Debug\ConnectedWorkplace.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\obj\Debug\ConnectedWorkplace.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\obj\Debug\ConnectedWorkplace.EntityFramework.csproj.CopyComplete
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\obj\Debug\ConnectedWorkplace.EntityFramework.dll
+C:\Users\Jawad Chughtai\Documents\GitHub\ConnectedWorkplace\ConnectedWorkplace\ConnectedWorkplace.EntityFramework\obj\Debug\ConnectedWorkplace.EntityFramework.pdb
